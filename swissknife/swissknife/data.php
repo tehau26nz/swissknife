@@ -110,48 +110,6 @@ echo "<strong>:( who are you?</strong>";
     <input type="submit" value="Upload" name="upload">
 </form>
 
-<!--GALLERY OF POP - UPS
-<div class="rowgallery">
-    <br>
-    <h2 id="title2">What would you like to do?</h2>
-    <div class="responsive">
-        <div class="gallery">
-            <a target="_blank" href="">
-                <img src="images/airplane.png" alt="Book a flight" width="200" height="200" />
-            </a>
-            <div class="desc">Book a flight</div>
-        </div>
-    </div>
-
-    <div class="responsive">
-        <div class="gallery">
-            <a target="_blank" href="">
-                <img src="images/cruise.png" alt="Book a cruise" width="200" height="200" />
-            </a>
-            <div class="desc">Book a cruise</div>
-        </div>
-    </div>
-
-    <div class="responsive">
-        <div class="gallery">
-            <a target="_blank" href="">
-                <img src="images/car.png" alt="Book a car" width="200" height="200" />
-            </a>
-            <div class="desc">Book a Car</div>
-        </div>
-    </div>
-
-    <div class="responsive">
-        <div class="gallery">
-            <a target="_blank" href="">
-                <img src="images/hotel.png" alt="Book a hotel" width="200" height="200" />
-            </a>
-            <div class="desc">Book a hotel</div>
-        </div>
-    </div>
-    <div class="clearfix"></div>
-</div>-->
-
 </body>
 </html>
 
