@@ -1,12 +1,14 @@
-<?php include("includes/header.php") ?>
-
-  <?php include("includes/nav.php") ?>
+<?php
+	require_once('includes/header.php');
+	include('includes/nav.php');
+?>
 
   <!DOCTYPE html>
-	<html lang="English">
+	<html lang="en">
 		<head>
-			<h1 style="text-align:center;">Welcome to my swiss knife website application</h1>
-			<link href="css/style.css" rel="stylesheet" type="text/css" />
+			<title>Tehaunuiss</title>
+			<link rel="stylesheet" href="<?php echo $app_path ?>css/style.css"/>
+			<h1 style="text-align:center;">Welcome</h1>
 			<br>
 			<?php echo "Today is the " . date("d-m-Y") . "<br>";?>
 		</head>
@@ -20,4 +22,4 @@
 		</body>
 	</html>
 
-<?php include("includes/footer.php") ?>
+<?php include('includes/footer.php') ?>
